@@ -1,0 +1,23 @@
+
+
+@media screen and (max-width: 768px) {
+    .col-4 {
+        width: 48%;
+    }
+    .subscribe input[type="submit"] {
+   margin-top: 20px;
+}
+    
+    }
+
+
+
+@media screen and (max-width: 600px) {
+    .col-4 {
+        width: 98%;
+    }
+     .subscribe input[type="submit"] {
+    margin-top: 20px;
+}
+    
+    }
